@@ -7,3 +7,12 @@ Necessary library:
 or ,  pip install --upgrade opencv-contrib-python==3.4.2.17
 
 N.B: Realsense Depth needs to be in the same folder as detect distance
+
+
+
+# Rectangle-Movement
+
+ pip install pyserial
+ pip install pynmea2
+ pip  install geopy
+ pip install matplotlib
