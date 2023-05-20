@@ -12,7 +12,10 @@ N.B: Realsense Depth needs to be in the same folder as detect distance
 
 # Rectangle-Movement
 pip install pyserial
+
 pip install pynmea2
+
 pip  install geopy
+
 pip install matplotlib
 
